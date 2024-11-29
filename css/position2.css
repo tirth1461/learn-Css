@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#01E37F ;
+    font-family: sans-serif;
+}
+.container{
+    width: 85%;
+    margin: 100px auto;
+}
+.product{
+    width: 550px;
+    height: 500px;
+    
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+}
+
+.apple{
+    width: 44%;
+    height: 72%;
+  
+    position: absolute;
+    top: 35px;
+    left: -46px;
+    
+}
+
+.images{
+    width: 100%;
+    height: 80%;
+  
+    background-color: #B8EB45;
+    position: relative;
+  
+}
+.images i{
+    float: left;
+    color: white;
+    size: 10px;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.icon i{
+    float: right;
+    color: white;
+    size:10px;
+    margin-right:10px ;
+    margin-top: 7px;
+}
+
+.images img{
+    width:300px;
+    position: absolute;
+    top:30px;
+    left: -77px;
+}
+
+.apples{
+    width: 100%;
+    height: 20%;
+   
+   
+}
+.app{
+    width: 25%;
+    height: 100%;
+   border: 2px solid#E9E9E8 ;
+    float: left;
+    border-radius: 16%;
+}
+.green img{
+    width: 100%;
+    height: 100%;
+}
+
+.red img{
+    width: 100%;
+    height: 100%;
+}
+
+.yellow img{
+    width: 100%;
+    height: 100%;
+}
+
+.blue img{
+    width: 100%;
+    height: 100%;
+}
+.product h2{
+ 
+    padding-top: 57px;
+}
+
+.product h6{
+    color: #C9CCCD;
+    font-size:9px;
+   
+}
+.product span{
+    color: red;
+   margin-top: 19px;
+    font-weight: 300;
+    font-size: 39px;
+    display: inline-block;
+    
+}
+
+
+.product h4{
+   
+    color:#C8C9CD ;
+    margin-top: 25px;
+    font-weight: 200;
+}
+.color{
+    width: 57%;
+    height: 10%;
+    padding: 5px 3px;
+    margin-top: 6px;
+    margin-left: 10px;
+  
+}
+
+.col{
+    width: 45px;
+    height: 43px;
+    padding: 3px 3px;
+    float: left;
+}
+.col1 img{
+    width: 100%;
+    height: 100%;
+    border: 2px solid #B7B7B6;
+}
+.col2 img{
+    width: 100%;
+    height: 100%;
+}
+.col3 img{
+    width: 100%;
+    height: 100%;
+}
+.col4 img{
+    width: 100%;    
+    height: 100%;
+}
+
+.product h1{
+   
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 20px;
+    color: #B7B7B6;
+}
+
+.data{
+    margin-left: 220px;
+    margin-top: 20px;
+}
+.product p {
+    color: #B7B7B6;
+    font-weight: 200;
+    font-size: 13px;
+    margin-top: 62px;
+}
+
+.cart {
+    background-color:#FF3F40 ;
+    border: 2px solid #FF3F40;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 47px;
+    display: inline-block;
+    padding: 17px 41px;
+}
+ul{
+    margin-left: 21px;
+}
+   

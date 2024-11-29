@@ -1,0 +1,93 @@
+.colName{
+    color: red;
+}
+/* 0-9 a-f */
+.colHash{
+    color: #000000;
+    color: #ffffff;
+    color: #ff0000;
+    color: #00ff00;
+    color: #0000ff;
+    color: #ff00ff;
+}
+/* 0-255 */
+.colRGBA{
+    /* color: rgba(red, green, blue, alpha); */
+    color: rgba(0, 0, 0, 1);
+    color: rgba(255, 255, 255, 1);
+    color: rgba(255, 0, 0, 1);
+    color: rgba(0, 255, 0,1);
+    color: rgba(255, 0,255, 1);
+    color: rgba(0, 0, 255,1);
+}
+
+.colHSLA{
+    color:hsla(165, 56%, 53%, 1)
+   
+
+}
+
+.alCenter{
+    text-align: center;
+}
+
+.alRight{
+    text-align: right;
+}
+
+.alJustify{
+    text-align: justify;
+}
+
+.ttUppercase{
+    text-transform: uppercase;
+}
+
+.ttLowercase{
+    text-transform: lowercase;
+    word-spacing: 20px;
+}
+
+.ttCapitalize{
+    text-transform: capitalize;
+}
+
+.tdUnderline{
+    text-decoration: underline;
+}
+
+.tdOverline{
+    text-decoration: overline;
+}
+
+.tdLine{
+    text-decoration: line-through;
+    line-height: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.indent50px{
+    text-indent: 50px;
+}
+
+
+.letterSpace{
+    letter-spacing: 5px;
+}
+
+.wordSpace{
+    word-spacing: 10px;
+}
+
+.lineHeight{
+    line-height: 70px;
+}
+
+.whiteSpace{
+    white-space: nowrap;
+
+}

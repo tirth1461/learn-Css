@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+body{
+    font-family: 'Mona Sans';
+    background-color:#7B35E6 ;
+}
+
+@font-face {
+    font-family: 'Mona Sans';
+    src: url(../fonts/MonaSans-Regular.otf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Mona Sans';
+    src: url(../fonts/MonaSans-Medium.otf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Mona Sans';
+    src: url(../fonts/MonaSans-Bold.otf);
+    font-weight: bold;
+}
+    
+
+.product{
+   width: 550px;
+   height: 470px;
+   background-color: white;
+   margin: 50px auto;
+
+
+}
+.new{
+    width: 100%;
+    height: 17%;
+   
+    
+}
+.nurton{
+    width:50%;
+    height: 70%;
+   
+    float: left;
+}
+.Data{
+    width: 50%;
+    height: 70%;
+   
+    float: left;
+}
+
+.new i{
+    background-color:#115DD8 ;
+    color: white;
+    width: 65%;
+    height: 30%;
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-left: 15px;
+    margin-top: 15px;
+    float: left;
+}
+.new h4{
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+
+.pro{
+    width: 100%;
+    height: 40%;
+   
+    padding-left: 17px;
+}
+
+.pro h3{
+    font-size: 60px;
+    font-style: normal;
+}
+.pro h4{
+    font-size: 20px;
+    font-style: normal;
+    color:#DBC4B2;
+    
+}
+
+.pro h5{
+    font-size: 18px;
+    font-style: normal;
+}
+
+.IMAGE{
+    width: 100%;
+    height: 60%;
+   
+}
+
+.IMAGE img{
+    width: 50%;
+    height: 100%;
+    margin-left: 25px;
+}
+
+.Data p{
+    font-size: 15px;
+    margin-top: 17px;
+    color:salmon ;
+}
+
+.Data h4{
+    font-size: medium;
+    margin-top: 17px;
+    color: green;
+}
+.Data i{
+    color:#F8C21E ;
+    margin-top: 10px;
+    float: left;
+}
+
+.Data h5{
+    float: left;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+.add{
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+}
+
+.add h5{
+    font-size: 10px;
+    padding-top: 10px;
+}
+.add h4{
+    color: #115DD8;
+    
+}
+
+.btn{
+    background-color: #115DD8;
+    float: right;
+    margin-right: 10px;
+    margin-top: 20px;
+    color: white
+  
+   
+}
+
+
+
+
+

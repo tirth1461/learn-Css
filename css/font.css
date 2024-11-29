@@ -1,0 +1,104 @@
+ @font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Black.ttf);
+    font-family: 900;
+    font-style: normal;
+ }
+ 
+
+ @font-face {
+    font-family: 'Roboto' ;
+    src: url(../fonts/Roboto-BlackItalic.ttf);
+    font-weight: 900; 
+    font-style: italic;
+ }
+
+ @font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+ }
+
+ @font-face {
+    font-family:'Roboto' ;
+    src: url(../fonts/Roboto-BoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic
+ }
+
+ @font-face {
+    font-family: ;
+    src: url(../fonts/Roboto-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+ }  
+ 
+    
+   
+
+    
+    
+ 
+
+
+ #serif{
+    font-family: serif;
+}
+
+#sansSerif{
+    font-family: sans-serif;
+}
+
+#Mono{
+    font-family: monospace;
+}
+
+#fantacy{
+    font-family: fantasy;
+}
+
+#cursive{
+    font-family: cursive;
+}
+
+#Igoogle{
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+}
+
+#iGoogle{
+    font-family: "Open Sans", sans-serif;
+}
+
+#dGoogle{
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: normal;
+}
+
+#cGoogle{
+    font-family:'Roboto';
+    font-weight: 900;
+    font-style: italic;
+}
+
+#aGoogle{
+    font-family:'Roboto';
+    font-weight: 700;
+    font-style: normal;
+}
+
+#fGoogle{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-style: italic;
+}
+
+#kGoogle{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: italic;
+}
+
+
+

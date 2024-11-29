@@ -1,0 +1,70 @@
+.blockdemo{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-left: 20px;
+    padding: 20px;
+
+}
+
+
+.inline{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    padding: 30px;
+}
+
+.demo1{
+    background-color: blue;
+    margin:20px;
+    padding: 40px;
+}
+
+.hello{
+    background-color: green;
+    margin: 10px;
+    padding: 40px;
+    width: 500px;
+    height: 500px;
+}
+
+.btn{
+    display: inline-block;
+    width: 200px;
+    height: 20px;
+    background-color: red;
+    margin: 30px;
+    padding: 30px;
+}
+.Buy{
+    background-color: red;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.car{
+    background-color: blue;
+    display: block;
+    width: 40px;
+    height: 40px;
+    padding: 20px;
+    margin: 20px;
+
+
+
+}
+
+.bike{
+    background-color: red;
+    display: inline;
+    width: 1000px;
+    height: 40px;
+    margin: 30px;
+    padding: 30px;
+}
+

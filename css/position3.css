@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background-color:#F1F1F1 ;
+}
+
+.container{
+    width: 85%;
+    margin: 100px auto;
+}
+
+.card{
+    width: 440px;
+    height: 550px;
+  
+    margin: 0 auto;
+    background-color: white;
+}
+
+.shoe{
+    width: 100%;
+    height: 50%;
+   
+    position: relative;
+}
+.data{
+    width: 100%;
+    height: 50%;
+  
+    padding: 14px 18px;
+    position: relative;
+}
+
+.shoe span{
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    padding: 38px;
+    position: absolute;
+    left: -44px;
+    top: -48px;
+    width: 25%;
+    height: 37%;
+}
+
+.shoe img{
+    width: 652px;
+    height: 185px;
+    position:relative;
+    left: -106px;
+    top: 40px;
+}
+
+.data span{
+    font-size: 32px;
+    margin-left: 8px;
+    font-weight: bold;
+}
+.line{
+    width: 37px;
+    height: 3px;
+    border: 2px solid#CF092C ;
+    margin:25px 13px;
+    background-color: #CF092C;
+}
+.data p{
+    font-size: 20px;
+}
+
+
+
+.data a{
+  
+    border: 2px solid #CF092C;
+    background-color: #CF092C;
+    display: inline-block;
+    color: white;
+    position: absolute;
+    padding: 24px 53px;
+    right:23px;
+   bottom: -27px;
+    text-decoration: none;
+    border-radius: 7px;
+}

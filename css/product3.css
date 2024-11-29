@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+@font-face {
+    font-family:'Mona Sans';
+    src: url(../fonts/MonaSans-Regular.otf);
+    font-weight:400;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:'Mona Sans' ;
+    src: url(../fonts/MonaSans-Medium.otf);
+    font-weight: 500; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mona Sans';
+    src: url(../fonts/MonaSans-Bold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+body{
+    background-color: #E0C9CB;
+    font-family: 'Mona Sans';
+}
+.product3{
+   height: 350px;
+   width: 400px;
+   border: 2px solid black;
+   border-radius: 10px;
+   margin: 100px auto;
+   background-color: white;
+}
+
+.pro-Img{
+     width: 54%;
+     height: 100%;
+    
+     float: left;
+}
+
+.pro-Data{
+    width: 46%;
+    height: 100%;
+   
+    float: left;
+}
+
+.pro-Img img{
+    width: 100%;
+    height: 100%;
+}
+
+.size{
+    width: 100%;
+    height: 50%;
+   
+}
+
+.size .box{
+    float: left;
+  margin: 0 3px;
+    border: 2px solid #E0C9CB;
+  
+    color: #E0C9CB;
+    margin-top: 10px;
+}
+
+.size h4{
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 10px;
+    color: #E0C9CB;
+}
+.pro-Data h4{
+    font-size: 7px;
+    color: #E0C9CB;
+    font-weight: 100;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+}
+
+.pro-Data h3{
+    margin-bottom: 10px;
+    font-size: medium;
+}
+
+.pro-Data h2{
+    font-weight: 100;
+    color: #E0C9CB;
+    margin-bottom: 10px;
+}
+.pro-Data h1{
+    font-size: 13px;
+    margin-bottom: 10px;
+    font-style: normal;
+    
+}
+
+.btn button{
+    background-color: #E0C9CB;
+    border: #E0C9CB;
+    color: white;
+   
+}
+
+.btn i{
+    background-color: #E0C9CB;
+    color: white;
+    box-sizing: 10px;
+}
+
+   
+
+    
+
+
+
+
+
+
+

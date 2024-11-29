@@ -1,0 +1,219 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Mona Sans';
+    src: url(../fonts/MonaSans-Regular.otf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Mona Sans';
+    src: url(../fonts/MonaSans-Medium.otf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Mona Sans';
+    src: url(../fonts/MonaSans-Bold.otf);
+    font-weight: bold;
+}
+
+body{
+    font-family: 'Mona Sans';
+}
+
+.card{
+    width: 480px;
+    height: 420px;
+    border: 2px solid red;
+    margin: 20px auto;
+}
+.img{
+    width: 50%;
+    height: 100%;
+   border: 2px solid green;
+    float: left;
+}
+
+
+.logo{
+    width: 46%;
+    height: 13%;
+    border: 2px solid blue;
+    background-color: black;
+}
+
+.images{
+    width: 100%;
+    height: 63%;
+    border: 2px solid aqua;
+}
+.arrow{
+    width: 100%;
+    height: 24%;
+    border: 2px solid blue;
+}
+
+.logo h6{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+}
+.images img{
+    width: 100%;
+    height: 100%;
+    margin-top: 5px;
+}
+
+.arr{
+    width: 100%;
+    height: 50%;
+    border: 2px solid orange;
+   text-align: center;
+}
+.All-box{
+    width: 100%;
+    height: 50%;
+    border: 2px solid blue;
+    padding: 0 40px;
+   
+}
+.arr a{
+    display: inline-block;
+    width: 20px;
+   height: 20px;
+    margin-top: 10px;
+    border: 2px ;
+    border-radius: 50%;
+    color: white;
+    background-color:#1E2C60 ;
+    margin: 10px;
+  
+}
+.box{
+    width: 15px;
+    height: 10px;
+    border:2px solid gray;
+    float: left;
+    margin: 10px;
+    background-color: gray;
+   
+}
+.data{
+    width: 50%;
+    height: 100%;
+    border: 2px solid yellow;
+    float: left;
+}
+
+.data h5{
+    font-size: 10px;
+    margin-top: 10px;
+}
+.info h6{
+   float: right;
+    margin-right: 18px;
+    margin-top: 2px;
+    
+    
+ 
+}
+
+
+ .icon i{
+    background-color:#869DF7 ;
+    float: right;
+    margin-right: 14px;
+    margin-bottom: 0px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+
+
+
+.data h4{
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.data h3{
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.data p{
+    font-size: 10px;
+    margin-top: 9px;
+}
+
+.star i{
+    color: gray;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.star h6{
+   float: right;
+    margin-top: 17px;
+    font-size: 10px;
+    margin-right: 7px;
+}
+
+.data h2{
+    color:#D08697 ;
+    font-size: medium;
+    margin-top: 20px;
+}
+
+.color h6{
+   
+   
+    margin: 0px auto;
+    text-align: right;
+   
+    
+}
+.col1{
+    width: 16px;
+    height: 16px;
+    border: 8px solid black;
+    border-radius: 50%;
+    float: right;
+   margin: 10px;
+   
+}
+
+.col2{
+    width: 16px;
+    height: 16px;
+    border: 8px solid gray;
+    border-radius: 50%;
+    float: right;
+   margin: 10px;
+   
+}
+
+.cart h6{
+    margin-top:40px;
+    float: left;
+    
+}
+.cart h5{
+    float: left;
+    margin:40px;
+    margin-right: 60px;
+    border: 1px solid;
+    padding: 5px;
+}
+
+    
+
+
+

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    font-family: sans-serif;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.left-header{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+header{
+    background-color: rgba(0, 0, 0, 0.5);
+  
+}
+ ul{
+    list-style-type: none;
+   
+}
+
+ nav ul{
+    display: flex;
+    
+}
+  ul  li a{
+    text-decoration: none;
+    margin: 10px 18px; 
+    color: white;
+}
+nav ul li  :hover{
+    color:#29B2FE ;
+}
+.image img{
+    width: 100%;
+}
