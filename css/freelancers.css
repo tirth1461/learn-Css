@@ -124,7 +124,7 @@ h2::first-letter{
     font-weight: 100;
    
 }
-.images{
+.works-images{
     margin-top: 67px;
     display: flex;
     justify-content: space-between;
@@ -174,15 +174,21 @@ h2::first-letter{
 }
 .images img{
    margin-top: 25px;
+   width: 104%;
+ 
 }
 .how-work{
     display: flex;
-    column-gap: 78px;
-  
+    justify-content: space-between;
+    
+    
 }
+
 
 .work{
     margin-top: 59px;
+   width: 50%;
+   
 }
 
 .work h1{
@@ -212,12 +218,18 @@ h2::first-letter{
     border-radius: 4px;
     font-size: 20px;
 }
-.How-To-Contact{
-    font-size: 35px;
+.Title{
+    width: 50%;
 }
+.Title h3{
+    font-size: 45px;
+    margin-top: 73px;
 
-
-
- 
-
-   
+}
+.Title p{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.work1 img{
+    margin-top: 45px;
+}
