@@ -230,6 +230,126 @@ h2::first-letter{
     margin-top: 20px;
     font-size: 20px;
 }
-.work1 img{
-    margin-top: 45px;
+.contact-img{
+    width: 50%;
+}
+.contact-img1{
+    width: 40%;
+}
+.contact-img img{
+    margin-top:55px;
+}
+.contact-img h3{
+    font-size: 19px;
+    margin-top: 30px;
+}
+
+.contact-img h3{
+    width: 169%;
+    margin-top: 20px;
+}
+.contact-img1 img{
+    margin-top: 53px;
+}
+.contact-img1 h3{
+    font-size: 19px;
+    margin-top: 20px;
+}
+
+.con-data{
+  display: flex;
+}
+
+.main-box{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0;
+}
+.con-img{
+    width: 50%
+}
+
+
+.Mobile-Img{
+    width: 40%;
+}
+
+.main-title{
+    font-size: 45px;
+}
+.safe-details p{
+    margin-top: 30px;
+}
+.control{
+    margin-top: 80px;
+}
+.con-img p{
+    margin-top: 30px;
+    font-size: 21px;
+    color: #12151B;
+}
+.main{
+    margin: 100px 0;
+}
+.secure{
+    display: flex;
+    justify-content: space-between;
+}
+.safe-img{
+    width: 40%;
+}
+.safe-details{
+    width: 50%;
+}
+.safe-img img{
+    width: 100%;
+    height: 100%;
+}
+.safe-details p{
+    font-size: 21px;
+    line-height: 25px;
+}
+.main-parent{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.pay{
+    width: 53%;
+}
+.support{
+    width: 40%;
+}
+.main-parent img{
+    width: 80px;
+  
+}
+.main-parent p{
+    line-height: 30px;
+}
+.main-parent h3{
+    margin-top: 20px;
+}
+.main-parent p{
+    margin-top: 12px;
+    color: #4C4E54;
+    font-size: 20px;
+}
+#post{
+    width: 100%;
+    height: 315px;
+    background-color: black;
+}
+.h4{
+    margin-top: 50px;
+}
+.click{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 52px;
+    font-size: 20px;
+    color: white;
+    background-color: #C40D6C;
+    padding: 16px;
+    border-radius: 5px;
 }
